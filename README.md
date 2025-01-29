@@ -8,7 +8,6 @@
 ![vidflow](https://github.com/user-attachments/assets/fc4d62cb-146d-40c3-8ebe-f913577d5e40)
 
 
-![Captura de tela do Vidflow.]
 
 ## 🔨 Funcionalidades do projeto
 
