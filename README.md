@@ -1,10 +1,12 @@
-![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".](./thumb.png)
+![Imagem de capa do curso. O título é "3519 - Node.js e terminal" e o subtítulo é "Dominando o ambiente de desenvolvimento front-end".]![thumb](https://github.com/user-attachments/assets/c604b051-7b68-433e-857e-10ec7946da53)
+
 
 # VidFlow
 
-O VidFlow é uma plataforma de compartilhamento de vídeos.
+O VidFlow é uma plataforma de compartilhamento de vídeos.![vidflow](https://github.com/user-attachments/assets/9f035472-d08d-4fae-9ecc-df13123e478e)
 
-![Captura de tela do Vidflow.](./vidflow.png)
+
+![Captura de tela do Vidflow.]
 
 ## 🔨 Funcionalidades do projeto
 
